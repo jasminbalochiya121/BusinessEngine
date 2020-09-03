@@ -1,0 +1,6 @@
+D:\study\MVC\BusinessEngine\BusinessEngine\bin\Debug\BusinessEngine.exe.config
+D:\study\MVC\BusinessEngine\BusinessEngine\obj\Debug\BusinessEngine.csprojResolveAssemblyReference.cache
+D:\study\MVC\BusinessEngine\BusinessEngine\bin\Debug\BusinessEngine.exe
+D:\study\MVC\BusinessEngine\BusinessEngine\bin\Debug\BusinessEngine.pdb
+D:\study\MVC\BusinessEngine\BusinessEngine\obj\Debug\BusinessEngine.exe
+D:\study\MVC\BusinessEngine\BusinessEngine\obj\Debug\BusinessEngine.pdb
